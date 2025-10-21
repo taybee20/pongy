@@ -1,0 +1,13 @@
+﻿  pongy.cpp
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(23,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(23,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(23,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(50,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(51,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(76,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(142,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(145,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taybe\dev\pongy\pongy\pongy.cpp(150,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pongy.vcxproj -> C:\Users\taybe\dev\pongy\x64\Debug\pongy.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
